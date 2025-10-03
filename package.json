@@ -1,0 +1,11 @@
+{
+  "name": "lead-capture-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "cd project && npm run dev",
+    "build": "cd project && npm run build",
+    "preview": "cd project && npm run preview"
+  }
+}
